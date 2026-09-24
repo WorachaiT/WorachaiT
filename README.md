@@ -31,15 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[WorachaiT]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[WorachaiT]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 📧 **Email:** [wochai.te@gmail.com](mailto:wochai.te@gmail.com)
