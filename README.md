@@ -8,7 +8,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on my Senior Project: **Aliro Smart Lock**
-- 🌱 I’m currently expanding my skills in **FreeRTOS, Industrial IoT (Modbus/RS-485), MQTT, and Dockerized IoT Stacks**
 
 ---
 
@@ -21,12 +20,10 @@
 ![Espressif](https://img.shields.io/badge/ESP32_/_ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 📡 IoT Protocols & Interfaces
-- **Network & Messaging:** `MQTT`, `HTTP/REST API`, `WebSocket`, `LoRa / LoRaWAN`
-- **Industrial & Board Interfaces:** `RS-485 (Modbus RTU/TCP)`, `UART`, `I2C`, `SPI`, `ADC / PWM`
+- **Board Interfaces:** `UART`, `I2C`, `SPI`, `ADC / PWM`
 - **RTOS & System:** `FreeRTOS` (Multitasking, Queues, Interrupts)
 
 ---
