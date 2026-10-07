@@ -40,7 +40,8 @@ I am a Computer Engineering student specializing in embedded firmware, network i
 #### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C_(C99/C11)-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_(ARM)-555555?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![PIC Assembly](https://img.shields.io/badge/PIC_Assembly_(Microchip)-EC1C24?style=for-the-badge&logo=microchip&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
