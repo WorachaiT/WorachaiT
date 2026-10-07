@@ -56,4 +56,3 @@ I am a Computer Engineering student specializing in embedded firmware and IoT ar
 
 - 📧 **Email:** [wochai.te@gmail.com](mailto:wochai.te@gmail.com)
 - 📍 **Location:** Khon Kaen, Thailand
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Optional)*
