@@ -23,10 +23,6 @@ I am a Computer Engineering student specializing in embedded firmware and IoT ar
 - **Silicon & Architecture:** Developed firmware on **STM32WBA52** (ARM Cortex-M33 with TrustZone), managing advanced clock trees (HSE/HSI, PLL1 fractional synthesis) and the STM32_WPAN BLE radio subsystem.
 - **RF & NFC Integration:** Interfaced NFC Reader ICs (**ST25R300 / RE41**) over SPI/I2C for ISO/IEC 14443-A smart credential detection and field polling.
 - **Precision Actuation & Timing:** Designed PWM driver modules using hardware 16/32-bit timers with sub-microsecond precision for servo lock mechanisms, complete with active-low power gating.
-- **Root-Cause Hardware Debugging:**
-  - Diagnosed clock-drift anomalies using an **oscilloscope**, tracing baud-rate framing errors ($921.6\text{ kbps}$) and PWM dilation ($100\ \mu\text{s} \to 225\ \mu\text{s}$) to PLL unlock states and VCO boundary constraints.
-  - Resolved Cold Boot vs. Warm Reset transients, crystal stabilization delays, and SRAM memory retention quirks across system resets.
-- **Embedded Toolchains & VCS:** Managed modular firmware architecture, CMSIS Device dependencies, and vendor SDK git structures.
 
 ---
 
